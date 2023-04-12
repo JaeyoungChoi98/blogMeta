@@ -11,5 +11,6 @@ public class test {
     public String hello() {
         return "<h1>hello</h1>";
     }
-    String aaaA;
+    String zzzzzzz;
+
 }
